@@ -8,7 +8,7 @@ public class Routes {
 		Update User	PUT	https://petstore.swagger.io/v2/user/{username}
 		Delete User	DELETE	https://petstore.swagger.io/v2/user/{username}*/
 
-	//user models urls
+	//User models URLS
 			
 	public static String base_url= "https://petstore.swagger.io/v2";
 	   

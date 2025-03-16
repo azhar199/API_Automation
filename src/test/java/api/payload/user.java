@@ -14,7 +14,6 @@ public class user {
 	  int userStatus= 0;
 	  
 	  
-	  
 	  public int getId() {
 		return id;
 	}
